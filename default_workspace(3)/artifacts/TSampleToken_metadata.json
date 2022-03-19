@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.13+commit.abaa5c0e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ERC20.sol": "TSampleToken"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ERC20.sol": {
+			"keccak256": "0xdb9d18ac53cbe4295ae94f6942f87f693bb5683fc2fa5354f294714336fef171",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://755ca2db04361e6459cebf759bcab10c8755f8603a7f8fe107c36488cf6adfdf",
+				"dweb:/ipfs/QmXDjvLMvHr85XU2dGt83iMYyv9af9PsqE19dRG91d4i6g"
+			]
+		}
+	},
+	"version": 1
+}
